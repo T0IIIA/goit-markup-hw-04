@@ -117,7 +117,7 @@ a {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.current__studio::after { /*link Studio*/
+.current::after { /*link Studio*/
   content: "";
   position: absolute;
   left: 0;
