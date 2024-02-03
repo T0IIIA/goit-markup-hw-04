@@ -128,7 +128,7 @@ a {
   height: 4px;
 }
 
-.current__studio { /*link Studio*/
+.current { /*link Studio*/
   position: relative;
   color: #404BBF;
 }
@@ -227,7 +227,6 @@ a {
   margin-bottom: 8px;
   align-items: center;
   justify-content: center;
-  padding: 24px 0;
   height: 112px;
   width: 100%;
 }
@@ -289,6 +288,7 @@ a {
 display: flex;
 justify-content: center;
 gap: 24px;
+margin-top: 8px;
 }
 
 .icon-item {                   /*  <<<+ FOOTER */
@@ -297,7 +297,6 @@ height: 40px ;
 }
 
 .icon-link {                   /*  <<<+ FOOTER */
-  margin-top: 8px;
   width: 100%;
   height: 100%;
   display: flex;
